@@ -1,0 +1,40 @@
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+   body{
+    background-image: url('https://static4.depositphotos.com/1004998/283/i/600/depositphotos_2833058-stock-photo-blue-light-burst.jpg');
+    background-size: cover;
+   } 
+.active{
+    color: red;
+}
+.bpokemon{
+    display: flex;
+    flex-direction: column;
+    
+}
+.notFound{
+    background-color: red;
+}
+.tarjeta {
+    margin-top: 8rem;
+    margin-left: 4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: yellow;
+    text-shadow: 50px;
+    
+  
+  }
+  .datos{
+    margin-left: 2rem;
+    text-align: left;
+    
+    
+  }
+  
